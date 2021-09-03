@@ -40,7 +40,7 @@ main p {
 }
 
 .back {
-    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d34/master/class-10/lab-a/lab-assets/list-bg.png");
+    background-image: url("./assets/list-bg.png");
     columns: 2;
 }
 
